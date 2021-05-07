@@ -1,0 +1,10 @@
+C:\Users\Константин\Documents\GitHub\MyDES\MyDES\MyDES\bin\Debug\MyDES.exe.config
+C:\Users\Константин\Documents\GitHub\MyDES\MyDES\MyDES\bin\Debug\MyDES.exe
+C:\Users\Константин\Documents\GitHub\MyDES\MyDES\MyDES\bin\Debug\MyDES.pdb
+C:\Users\Константин\Documents\GitHub\MyDES\MyDES\MyDES\obj\Debug\MyDES.csprojAssemblyReference.cache
+C:\Users\Константин\Documents\GitHub\MyDES\MyDES\MyDES\obj\Debug\MyDES.Form1.resources
+C:\Users\Константин\Documents\GitHub\MyDES\MyDES\MyDES\obj\Debug\MyDES.Properties.Resources.resources
+C:\Users\Константин\Documents\GitHub\MyDES\MyDES\MyDES\obj\Debug\MyDES.csproj.GenerateResource.cache
+C:\Users\Константин\Documents\GitHub\MyDES\MyDES\MyDES\obj\Debug\MyDES.csproj.CoreCompileInputs.cache
+C:\Users\Константин\Documents\GitHub\MyDES\MyDES\MyDES\obj\Debug\MyDES.exe
+C:\Users\Константин\Documents\GitHub\MyDES\MyDES\MyDES\obj\Debug\MyDES.pdb
